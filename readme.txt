@@ -4,3 +4,4 @@ This is a modified place.
 This is a second line.
 This is added at dev branch.
 Creating a new branch is quick & simple.
+Creating a new branch is quick AND simple.
